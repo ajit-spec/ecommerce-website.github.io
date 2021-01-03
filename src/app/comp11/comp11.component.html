@@ -1,0 +1,75 @@
+<div class="d-flex flex-column justify-content-center align-items-center w-100" id="a1">
+
+  <div class="row mb-3 w-100">
+    <div class="col-10 col-md-8 col-lg-4 m-auto">
+      <div class="alert alert-success" role="alert" *ngIf="prop3">
+        {{prop2}}
+      </div>
+
+      <div class="alert alert-danger" role="alert" *ngIf="prop4">
+        {{prop2}}
+      </div>
+
+    </div>
+  </div>
+
+
+  <h2 class="mb-5">Log In</h2>
+
+  <form class="row w-100 mb-3" [formGroup]="form" (ngSubmit)="onSubmit()">
+
+    <div class="col-12">
+
+      <div class="row mb-3">
+
+        <div class="col-10 col-md-8 col-lg-4 m-auto">
+          <div
+            class="custom-form-element d-flex justify-content-between align-items-center border rounded px-3 py-1 w-100 mb-2"
+            [ngClass]="{
+          'border-danger': (form.get('email').touched) && form.get('email').hasError('required')
+          }">
+            <i class="far fa-envelope"></i>
+            <input type="text" name="email" placeholder="Email" class="form-control" [formControlName]="'email'">
+          </div>
+
+          <span class="text-danger"
+                *ngIf="(form.get('email').touched) && form.get('email').hasError('required')">email is required</span>
+        </div>
+
+      </div>
+
+      <div class="row mb-3">
+
+        <div class="col-10 col-md-8 col-lg-4 m-auto">
+          <div
+            class="custom-form-element d-flex justify-content-between align-items-center border rounded px-3 py-1 w-100 mb-2"
+            [ngClass]="{
+          'border-danger': (form.get('password').touched) && form.get('password').hasError('required')
+          }">
+            <i class="fas fa-lock"></i>
+            <input type="password" name="password" placeholder="Password" class="form-control"
+                   [formControlName]="'password'">
+          </div>
+
+          <span class="text-danger"
+                *ngIf="(form.get('password').touched) && form.get('password').hasError('required')">password is required</span>
+        </div>
+
+      </div>
+
+
+      <div class="row">
+
+        <div class="col-10 col-md-8 col-lg-4 m-auto">
+          <button type="submit" class="btn btn-secondary btn-block" [disabled]="form.invalid">Sign In</button>
+        </div>
+
+      </div>
+
+
+    </div>
+
+
+  </form>
+
+</div>

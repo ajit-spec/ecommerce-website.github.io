@@ -1,0 +1,35 @@
+.left-section {
+  flex: 1;
+}
+.left-section .nav-link {
+  margin-right: 1rem;
+}
+.left-section .nav-link:last-child {
+  margin-right: 0;
+}
+
+.right-section {
+  flex: 1;
+}
+.right-section .nav-link {
+  margin-left: 1rem;
+}
+.right-section .nav-link:first-child {
+  margin-left: 0;
+}
+
+.nav-link {
+  font-size: 0.9rem;
+}
+
+.logo-wrapper svg {
+  width: 4rem;
+  fill: #000;
+}
+
+.mobile-header .logo-wrapper {
+  flex: 1;
+  text-align: center;
+}
+
+/*# sourceMappingURL=comp1.component.css.map */

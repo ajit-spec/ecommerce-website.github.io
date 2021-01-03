@@ -1,0 +1,19 @@
+<ng-container *ngIf="prop1">
+
+    <div id="a1" [ngStyle]="{
+backgroundImage: 'url('+ prop1.image +')'
+}">
+
+    </div>
+
+    <div class="d-flex flex-column text-center mt-3">
+      <p class="mb-2">{{prop1.title}}</p>
+      <h3 class="mb-0">{{prop1.price | currency: 'USD': 'symbol': '1.0-2'}}</h3>
+    </div>
+
+
+
+
+</ng-container>
+
+

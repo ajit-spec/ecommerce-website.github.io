@@ -1,0 +1,28 @@
+mat-sidenav-container {
+  height: calc(100vh - 4.25rem);
+}
+@media (max-width: 1023px) {
+  mat-sidenav-container {
+    height: calc(100vh - 3.125rem);
+  }
+}
+
+nav a {
+  text-decoration: none;
+  color: #fff;
+  margin-left: 1.5rem;
+}
+nav a:first-child {
+  margin-left: 0;
+}
+
+app-comp1 {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  z-index: 1023;
+}
+
+/*# sourceMappingURL=app.component.css.map */

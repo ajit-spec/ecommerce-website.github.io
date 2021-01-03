@@ -1,0 +1,19 @@
+#a1 {
+  margin: 7rem 0;
+}
+@media (min-width: 1024px) {
+  #a1 {
+    margin: 12rem 0;
+  }
+}
+#a1 h2 {
+  font-size: 3rem;
+}
+#a1 p {
+  font-size: 1.2rem;
+}
+#a1 p a {
+  font-weight: bold;
+}
+
+/*# sourceMappingURL=comp13.component.css.map */

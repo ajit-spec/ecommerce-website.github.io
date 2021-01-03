@@ -1,0 +1,58 @@
+#hero {
+
+  @media (max-width: 1023px) {
+    height: calc(100vh - 3.125rem);
+  }
+
+  background-image: url("https://assets.italic.com/cdn-cgi/image/h=1360,q=80,fit=contain,format=auto/https://assets.italic.com/m/767ce308d7364e40/original/HO20_SelfCareStarter_16x9_0230.jpg");
+  background-size: cover;
+  background-position: center;
+  height: calc(100vh - 4.25rem);
+  position: relative;
+
+  .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 1;
+    background-color: #000;
+    opacity: 0.5;
+  }
+
+  .wrapper {
+    position: relative;
+    z-index: 2;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #fff;
+
+    h2 {
+      font-size: 4rem;
+    }
+
+    p {
+      font-size: 1.5rem;
+    }
+
+    button {
+      display: inline-block;
+      font-weight: 400;
+      text-align: center;
+      white-space: nowrap;
+      vertical-align: middle;
+      border: 1px solid transparent;
+      padding: 1rem 2rem;
+      font-size: 1rem;
+      line-height: 1.5;
+      border-radius: 2rem;
+    }
+  }
+
+
+}

@@ -1,0 +1,14 @@
+<ng-container *ngIf="prop1">
+
+  <div class="img-wrapper" [ngStyle]="{
+  backgroundImage: 'url(' + prop1?.image + ')'
+  }"></div>
+
+  <div class="info-wrapper p-4">
+    <app-comp9 [prop1]="prop1?.rating"></app-comp9>
+    <h3 class="my-2">{{prop1?.title}}</h3>
+    <p>{{prop1?.info}}</p>
+    <h4>{{prop1?.price | currency: 'USD': 'symbol': '1.0-2'}}</h4>
+  </div>
+
+</ng-container>

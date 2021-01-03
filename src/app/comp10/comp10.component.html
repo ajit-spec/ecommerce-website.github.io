@@ -1,0 +1,127 @@
+<div id="a1" class="px-3 text-center">
+
+  <h2 class="mb-4">Gifts for Him</h2>
+  <p>That Will Make Him Happy & You Shine</p>
+
+  <div class="d-flex justify-content-center align-items-center mt-5 flex-wrap">
+
+    <div class="box mr-5 text-center mb-3">
+      <div class="face-wrapper" [ngStyle]="{
+      backgroundImage: 'url(' + 'https://assets.italic.com/cdn-cgi/image/w=236,q=90,f=auto/https://cdn.shopify.com/s/files/1/0019/6404/8495/collections/HO20_Well-MadeFinishers_5x4_0306.jpg?v=1605123685' + ')'
+      }"></div>
+      <p class="mt-3">Luxe Accents</p>
+    </div>
+
+    <div class="box mr-5 text-center mb-3">
+      <div class="face-wrapper" [ngStyle]="{
+      backgroundImage: 'url(' + 'https://assets.italic.com/cdn-cgi/image/w=236,q=90,f=auto/https://cdn.shopify.com/s/files/1/0019/6404/8495/collections/HO20_BundledUp_5x4_0146.jpg?v=1605124928' + ')'
+      }"></div>
+      <p class="mt-3">Bundle Up</p>
+    </div>
+
+    <div class="box mr-5 text-center mb-3">
+      <div class="face-wrapper" [ngStyle]="{
+      backgroundImage: 'url(' + 'https://assets.italic.com/cdn-cgi/image/w=236,q=90,f=auto/https://cdn.shopify.com/s/files/1/0019/6404/8495/collections/HO20_BundledUp_5x4_0146.jpg?v=1605124928' + ')'
+      }"></div>
+      <p class="mt-3">Everyday Athletes</p>
+    </div>
+
+    <div class="box mr-5 text-center mb-3">
+      <div class="face-wrapper" [ngStyle]="{
+      backgroundImage: 'url(' + 'https://assets.italic.com/cdn-cgi/image/w=236,q=90,f=auto/https://cdn.shopify.com/s/files/1/0019/6404/8495/collections/HO20_CashmereShop_5x4_0117.jpg?v=1605142772' + ')'
+      }"></div>
+      <p class="mt-3">Cashmere Shop</p>
+    </div>
+
+  </div>
+
+</div>
+
+<div id="a2" class="p-5">
+
+  <div class="box">
+
+    <div class="d-flex justify-content-between align-items-center mb-3">
+
+      <h3 class="text-capitalize">jackets</h3>
+      <p>{{prop2?.jackets.length}} items</p>
+
+    </div>
+
+    <div class="row">
+
+      <div class="col-12 col-md-4 col-lg-3 mb-3" *ngFor="let a of prop2?.jackets">
+
+        <app-comp8 [prop1]="a" [ngStyle]="{cursor: 'pointer'}"></app-comp8>
+
+      </div>
+
+    </div>
+
+  </div>
+
+  <div class="box">
+
+    <div class="d-flex justify-content-between align-items-center mb-3">
+
+      <h3 class="text-capitalize">coats</h3>
+      <p>{{prop2?.coats.length}} items</p>
+
+    </div>
+
+    <div class="row">
+
+      <div class="col-12 col-md-4 col-lg-3 mb-3" *ngFor="let a of prop2?.coats">
+
+        <app-comp8 [prop1]="a" [ngStyle]="{cursor: 'pointer'}"></app-comp8>
+
+      </div>
+
+    </div>
+
+  </div>
+
+  <div class="box">
+
+    <div class="d-flex justify-content-between align-items-center mb-3">
+
+      <h3 class="text-capitalize">sweaters</h3>
+      <p>{{prop2?.sweaters.length}} items</p>
+
+    </div>
+
+    <div class="row">
+
+      <div class="col-12 col-md-4 col-lg-3 mb-3" *ngFor="let a of prop2?.sweaters">
+
+        <app-comp8 [prop1]="a" [ngStyle]="{cursor: 'pointer'}"></app-comp8>
+
+      </div>
+
+    </div>
+
+  </div>
+
+  <div class="box">
+
+    <div class="d-flex justify-content-between align-items-center mb-3">
+
+      <h3 class="text-capitalize">tees</h3>
+      <p>{{prop2['tees'].length}} items</p>
+
+    </div>
+
+    <div class="row">
+
+      <div class="col-12 col-md-4 col-lg-3 mb-3" *ngFor="let a of prop2['tees']">
+
+        <app-comp8 [prop1]="a" [ngStyle]="{cursor: 'pointer'}"></app-comp8>
+
+      </div>
+
+    </div>
+
+  </div>
+
+
+</div>

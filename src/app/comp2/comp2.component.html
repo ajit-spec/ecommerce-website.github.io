@@ -1,0 +1,46 @@
+<div id="hero">
+
+  <div class="overlay"></div>
+
+  <div class="wrapper">
+    <h2 class="text-capitalize">self-care starter</h2>
+    <p class="mt-3">For the HIIT, Low impact, Wellness Fanatic </p>
+  </div>
+
+</div>
+
+<div id="a1" class="p-4 p-lg-5" [ngStyle]="{
+backgroundColor: '#45050c'
+}">
+
+  <div class="row mb-4">
+    <div class="col-12 col-md-6 col-lg-5 text-white">
+      <h2 class="text-capitalize mb-3">get gifting</h2>
+      <p>Gifting made easy with something for everyone on your list, sourced from the same manufacturers as top brands.
+        All at cost, with no mark ups.</p>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-12 col-md-6 mb-5" *ngFor="let gift of prop2">
+      <app-comp3 [image]="gift.image" [caption]="gift.caption" [ngStyle]="{
+      cursor: 'pointer'
+      }"></app-comp3>
+    </div>
+  </div>
+
+
+</div>
+
+<div id="a2" class="p-4 p-lg-5">
+
+  <div class="row">
+    <div class="col-12">
+      <h2 class="text-capitalize mb-3">explore italic</h2>
+
+      <app-comp5 class="d-block mb-5"></app-comp5>
+
+    </div>
+  </div>
+
+</div>

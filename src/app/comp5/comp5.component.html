@@ -1,0 +1,169 @@
+<ng-container *ngIf="prop2">
+
+  <div class="container-fluid">
+
+    <div class="row mb-3">
+
+      <div class="col-12 col-lg-3">
+
+        <div class="row align-items-center">
+          <div class="col-4">
+            <img
+              [src]="prop2.apparel.image"
+              alt="" [ngStyle]="{
+          width: '5rem'
+          }">
+          </div>
+          <div class="col-8">
+            <h3 class="text-capitalize mb-1">apparel</h3>
+            <p class="mb-0 text-capitalize">{{prop2.type}}</p>
+          </div>
+          <p class="mt-3">{{prop2.apparel.text}}</p>
+        </div>
+
+      </div>
+
+      <div class="col-12 col-lg-9">
+
+        <div class="row">
+          <div class="col-12 col-md-6 col-lg-3 mb-3" *ngFor="let a of prop2.apparel.items">
+
+            <app-comp6 [prop1]="a" [ngStyle]="{
+          cursor: 'pointer'
+          }"></app-comp6>
+
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+
+    <div class="row mb-3">
+
+      <div class="col-12 col-lg-3">
+
+        <div class="row align-items-center">
+          <div class="col-4">
+            <img
+              [src]="prop2.bags.image"
+              alt="" [ngStyle]="{
+          width: '5rem'
+          }">
+          </div>
+          <div class="col-8">
+            <h3 class="text-capitalize mb-1">bags</h3>
+            <p class="mb-0 text-capitalize">{{prop2.type}}</p>
+          </div>
+          <p class="mt-3">{{prop2.bags.text}}</p>
+        </div>
+
+      </div>
+
+      <div class="col-12 col-lg-9">
+
+        <div class="row">
+          <div class="col-12 col-md-6 col-lg-3 mb-3" *ngFor="let a of prop2.bags.items">
+
+            <app-comp6 [prop1]="a" [ngStyle]="{
+          cursor: 'pointer'
+          }"></app-comp6>
+
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+
+
+</ng-container>
+
+<ng-container *ngIf="prop3">
+
+  <div class="container-fluid">
+
+    <div class="row mb-3">
+
+      <div class="col-12 col-lg-3">
+
+        <div class="row align-items-center">
+          <div class="col-4">
+            <img
+              [src]="prop3.apparel.image"
+              alt="" [ngStyle]="{
+          width: '5rem'
+          }">
+          </div>
+          <div class="col-8">
+            <h3 class="text-capitalize mb-1">apparel</h3>
+            <p class="mb-0 text-capitalize">{{prop3.type}}</p>
+          </div>
+          <p class="mt-3">{{prop3.apparel.text}}</p>
+        </div>
+
+      </div>
+
+      <div class="col-12 col-lg-9">
+
+        <div class="row">
+          <div class="col-12 col-md-6 col-lg-3 mb-3" *ngFor="let a of prop3.apparel.items">
+
+            <app-comp6 [prop1]="a" [ngStyle]="{
+          cursor: 'pointer'
+          }"></app-comp6>
+
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+
+    <div class="row mb-3" >
+
+      <div class="col-12 col-lg-3">
+
+        <div class="row align-items-center">
+          <div class="col-4">
+            <img
+              [src]="prop3.bags.image"
+              alt="" [ngStyle]="{
+          width: '5rem'
+          }">
+          </div>
+          <div class="col-8">
+            <h3 class="text-capitalize mb-1">bags</h3>
+            <p class="mb-0 text-capitalize">{{prop3.type}}</p>
+          </div>
+          <p class="mt-3">{{prop3.bags.text}}</p>
+        </div>
+
+      </div>
+
+      <div class="col-12 col-lg-9">
+
+        <div class="row">
+          <div class="col-12 col-md-6 col-lg-3 mb-3" *ngFor="let a of prop3.bags.items">
+
+            <app-comp6 [prop1]="a" [ngStyle]="{
+          cursor: 'pointer'
+          }"></app-comp6>
+
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+
+
+</ng-container>
+
+

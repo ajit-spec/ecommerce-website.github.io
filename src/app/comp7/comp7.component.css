@@ -1,0 +1,28 @@
+#a1 {
+  background-color: #810e13;
+  color: #e1cfc0;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#a1 h2 {
+  font-size: 4rem;
+  line-height: initial;
+}
+#a1 > p {
+  font-size: 1.5rem;
+}
+#a1 .box {
+  width: 8rem;
+}
+#a1 .box .face-wrapper {
+  background-position: center;
+  background-size: cover;
+  border-radius: 50%;
+  width: 100%;
+  height: 8rem;
+}
+
+/*# sourceMappingURL=comp7.component.css.map */

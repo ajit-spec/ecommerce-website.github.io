@@ -1,0 +1,23 @@
+input.form-control {
+  border: none;
+  background-color: transparent;
+}
+
+.form-control:focus {
+  box-shadow: none;
+  border-color: #ccc;
+}
+
+.custom-form-element i {
+  font-size: 1.5rem;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+#a1 {
+  margin: 7rem 0;
+}
+
+/*# sourceMappingURL=comp11.component.css.map */

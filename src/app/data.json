@@ -1,0 +1,356 @@
+{
+  "gifts": {
+    "male": {
+      "image": "https://assets.italic.com/cdn-cgi/image/w=1124,q=80,fit=contain,format=auto/https://assets.italic.com/m/79e2c194ae7e1e98/original/HO20_GiftsForHim_4x3_0181.jpg",
+      "caption": "Gifts for Him"
+    },
+    "female": {
+      "image": "https://assets.italic.com/cdn-cgi/image/w=1124,q=80,fit=contain,format=auto/https://assets.italic.com/m/7ef6e674f4bb7579/original/HO20_GiftsForHer_4x3_0315.jpg",
+      "caption": "Gifts for Her"
+    },
+    "home": {
+      "image": "https://assets.italic.com/cdn-cgi/image/w=1124,q=80,fit=contain,format=auto/https://assets.italic.com/m/291b33e78ae0dc4f/original/HO20_GiftsForHome_4x3.jpg",
+      "caption": "Gifts for Home"
+    },
+    "price": {
+      "image": "https://assets.italic.com/cdn-cgi/image/w=1124,q=80,fit=contain,format=auto/https://assets.italic.com/m/5afe06fdaba7922c/original/HO20_GiftByPrice_4x3_0194-1.jpg",
+      "caption": "Gifts by Price"
+    }
+  },
+  "explore-italic": {
+    "womens": {
+      "apparel": {
+        "image": "https://cdn.shopify.com/s/files/1/0019/6404/8495/collections/Marta-Leather-Jacket----listing_1.png?v=1577820986",
+        "text": "Made by manufacturers that have produced for J Brand & Alexander Wang",
+        "items": [
+          {
+            "image": "https://assets.italic.com/cdn-cgi/image/w=382,q=60,fit=contain,format=auto/https://cdn.shopify.com/s/files/1/0019/6404/8495/products/Marta_Jacket_Black_Figure_01.jpg?v=1583517848",
+            "title": "Marta Leather Motorcycle Jacket",
+            "price": 250
+          },
+          {
+            "image": "https://assets.italic.com/cdn-cgi/image/w=95.5,q=60,fit=contain,format=auto/https://cdn.shopify.com/s/files/1/0019/6404/8495/products/Lexi_SuedeLeatherJacket_Gray_Figure_Front1.jpg?v=1600711687",
+            "title": "Lexi Suede Leather Jacket",
+            "price": 260
+          },
+          {
+            "image": "https://assets.italic.com/cdn-cgi/image/w=382,q=60,fit=contain,format=auto/https://cdn.shopify.com/s/files/1/0019/6404/8495/products/Web_Size_Product_Crop-Cashmere_Socks_LightGray_Figure_CropScale_0288.jpg?v=1605140903",
+            "title": "Light Gray Cashmere Socks",
+            "price": 38
+          },
+          {
+            "image": "https://assets.italic.com/cdn-cgi/image/w=382,q=60,fit=contain,format=auto/https://cdn.shopify.com/s/files/1/0019/6404/8495/products/Web_Size_Product_Crop-Aura_7-8Legging_Eucalyptus_Figure_FullFront_1821.jpg?v=1605637523",
+            "title": "Aura High Waisted Leggings 7/8 Length",
+            "price": 30
+          }
+        ]
+      },
+      "bags": {
+        "image": "https://cdn.shopify.com/s/files/1/0019/6404/8495/collections/blue---listing_1.png?v=1577820969",
+        "text": "Made by manufacturers that have produced for Prada, Miu Miu, Longchamp, Away, & Tumi.",
+        "items": [
+          {
+            "image": "https://assets.italic.com/cdn-cgi/image/w=382,q=60,fit=contain,format=auto/https://cdn.shopify.com/s/files/1/0019/6404/8495/products/Kayla-Wallet-on-Chain-silver0383.jpg?v=1575764032",
+            "title": "Kayla Wallet on a Chain",
+            "price": 80
+          },
+          {
+            "image": "https://assets.italic.com/cdn-cgi/image/w=382,q=60,fit=contain,format=auto/https://cdn.shopify.com/s/files/1/0019/6404/8495/products/Ivy-Envelope-Clutch-Sky-Blue-0486_1.jpg?v=1581536468",
+            "title": "Ivy Envelope Clutch",
+            "price": 60
+          },
+          {
+            "image": "https://assets.italic.com/cdn-cgi/image/w=382,q=60,fit=contain,format=auto/https://cdn.shopify.com/s/files/1/0019/6404/8495/products/miles-duffle-1_e2d50d28-7d76-4626-9f3c-d6fbfa7bd17c.jpg?v=1582078664",
+            "title": "Miles Weekender Duffel Bag",
+            "price": 200
+          },
+          {
+            "image": "https://assets.italic.com/cdn-cgi/image/w=382,q=60,fit=contain,format=auto/https://cdn.shopify.com/s/files/1/0019/6404/8495/products/Black_-_Listing_c2814d0a-333f-43f5-9934-b671f93179dc.jpg?v=1579224301",
+            "title": "Claire Leather Double-Gusset Tote",
+            "price": 120
+          }
+        ]
+      }
+    },
+    "mens": {
+      "apparel": {
+        "image": "https://cdn.shopify.com/s/files/1/0019/6404/8495/collections/Listing.png?v=1575922392",
+        "text": "Made by manufacturers that have produced for Alexander Wang & RTA.",
+        "items": [
+          {
+            "image": "https://assets.italic.com/cdn-cgi/image/w=558,q=60,fit=contain,format=auto/https://cdn.shopify.com/s/files/1/0019/6404/8495/products/Kent_WoolCashmere_DoubleFacedJacket_Camel_Figure_Front1.jpg?v=1601684223",
+            "title": "Kent Wool Cashmere Double Faced Jacket",
+            "price": 195
+          },
+          {
+            "image": "https://assets.italic.com/cdn-cgi/image/w=558,q=60,fit=contain,format=auto/https://cdn.shopify.com/s/files/1/0019/6404/8495/products/Web_Size_Product_Crop-Stride_AthleticShort_Lined7Inch_Gray_Figure_FullFront_1287.jpg?v=1605735557",
+            "title": "Stride Athletic Shorts 7\" Lined",
+            "price": 35
+          },
+          {
+            "image": "https://assets.italic.com/cdn-cgi/image/w=558,q=60,fit=contain,format=auto/https://cdn.shopify.com/s/files/1/0019/6404/8495/products/Cashmere_VNeckSweater_Gray_Figure_Font1.jpg?v=1599671760",
+            "title": "Cashmere V-Neck Sweater",
+            "price": 60
+          },
+          {
+            "image": "https://assets.italic.com/cdn-cgi/image/w=558,q=60,fit=contain,format=auto/https://cdn.shopify.com/s/files/1/0019/6404/8495/products/066_Recycled_TerryPullover_OffWhite_Figure_Men_FRONT1.jpg?v=1589258503",
+            "title": "Unisex Recycled Terry Pullover Crew",
+            "price": 40
+          }
+        ]
+      },
+      "bags": {
+        "image": "https://cdn.shopify.com/s/files/1/0019/6404/8495/collections/Untitled-1.png?v=1580277754",
+        "text": "Made by manufacturers that have produced for Hugo Boss, Prada, Longchamp, & Tumi.",
+        "items": [
+          {
+            "image": "https://assets.italic.com/cdn-cgi/image/w=558,q=60,fit=contain,format=auto/https://cdn.shopify.com/s/files/1/0019/6404/8495/products/Walker-Slim-Brief-FRONT-0549.jpg?v=1578974729",
+            "title": "Walker Slim Briefcase",
+            "price": 200
+          },
+          {
+            "image": "https://assets.italic.com/cdn-cgi/image/w=558,q=60,fit=contain,format=auto/https://cdn.shopify.com/s/files/1/0019/6404/8495/products/c_672_c3a56339-a300-482f-a708-2bf270ae2f2e.jpg?v=1589258353",
+            "title": "Miles Leather Dopp Kit",
+            "price": 80
+          },
+          {
+            "image": "https://assets.italic.com/cdn-cgi/image/w=558,q=60,fit=contain,format=auto/https://cdn.shopify.com/s/files/1/0019/6404/8495/products/miles-duffle-1_c8da48c9-62fa-470d-a571-43595137be0c.jpg?v=1582078287",
+            "title": "Miles Weekender Duffel Bag",
+            "price": 200
+          },
+          {
+            "image": "https://assets.italic.com/cdn-cgi/image/w=558,q=60,fit=contain,format=auto/https://cdn.shopify.com/s/files/1/0019/6404/8495/products/goldlisting_757359f0-3535-4f43-8b23-68c255291955.jpg?v=1575764056",
+            "title": "Bartlett Pebbled Leather Backpack",
+            "price": 120
+          }
+        ]
+      }
+    }
+  },
+  "apparel": {
+    "women": {
+      "sweaters": [
+        {
+          "image": "https://assets.italic.com/cdn-cgi/image/w=554,q=60,fit=contain,format=auto/https://cdn.shopify.com/s/files/1/0019/6404/8495/products/035_CashmereMockneck_Sweater_Blush_Figure_FRONT1.jpg?v=1589257849",
+          "title": "Cashmere Mockneck Sweater",
+          "info": "some manufacturer as sandro & maje",
+          "price": 65,
+          "rating": 4.8
+        },
+        {
+          "image": "https://assets.italic.com/cdn-cgi/image/w=554,q=60,fit=contain,format=auto/https://cdn.shopify.com/s/files/1/0019/6404/8495/products/190529_ITALIC_2241.jpg?v=1586475857",
+          "title": "Cashmere Mockneck Sweater",
+          "info": "some manufacturer as sandro & maje",
+          "price": 77,
+          "rating": 4.1
+        },
+        {
+          "image": "https://assets.italic.com/cdn-cgi/image/w=554,q=60,fit=contain,format=auto/https://cdn.shopify.com/s/files/1/0019/6404/8495/products/1_190529_ITALIC_0847.jpg?v=1586475857",
+          "title": "Cashmere Mockneck Sweater",
+          "info": "some manufacturer as sandro & maje",
+          "price": 90,
+          "rating": 3.2
+        },
+        {
+          "image": "https://assets.italic.com/cdn-cgi/image/w=554,q=60,fit=contain,format=auto/https://cdn.shopify.com/s/files/1/0019/6404/8495/products/Grandma_Cardigan_Forest_Green_Figure01.jpg?v=1582052013",
+          "title": "Cashmere Mockneck Sweater",
+          "info": "some manufacturer as sandro & maje",
+          "price": 30,
+          "rating": 2.5
+        },
+        {
+          "image": "https://assets.italic.com/cdn-cgi/image/w=554,q=60,fit=contain,format=auto/https://cdn.shopify.com/s/files/1/0019/6404/8495/products/Grandma_Cardigan_Ivory_Figure_01.jpg?v=1582052013",
+          "title": "Cashmere Mockneck Sweater",
+          "info": "some manufacturer as sandro & maje",
+          "price": 120,
+          "rating": 4.9
+        },
+        {
+          "image": "https://assets.italic.com/cdn-cgi/image/w=554,q=60,fit=contain,format=auto/https://cdn.shopify.com/s/files/1/0019/6404/8495/products/Grandma_Cardian_Goldenrod_Figure_01.jpg?v=1582052013",
+          "title": "Cashmere Mockneck Sweater",
+          "info": "some manufacturer as sandro & maje",
+          "price": 67,
+          "rating": 4.2
+        },
+        {
+          "image": "https://assets.italic.com/cdn-cgi/image/w=554,q=60,fit=contain,format=auto/https://cdn.shopify.com/s/files/1/0019/6404/8495/products/Grandma_Cardigan_Lilac_Figure_01.jpg?v=1582052013",
+          "title": "Cashmere Mockneck Sweater",
+          "info": "some manufacturer as sandro & maje",
+          "price": 43,
+          "rating": 3.5
+        },
+        {
+          "image": "https://assets.italic.com/cdn-cgi/image/w=554,q=60,fit=contain,format=auto/https://cdn.shopify.com/s/files/1/0019/6404/8495/products/Grandma_Cardigan_Lilac_Figure_01.jpg?v=1582052013",
+          "title": "Cashmere Mockneck Sweater",
+          "info": "some manufacturer as sandro & maje",
+          "price": 87,
+          "rating": 4.4
+        }
+      ],
+      "coats": [
+        {
+          "image": "https://assets.italic.com/cdn-cgi/image/w=390,q=60,f=auto/https://cdn.shopify.com/s/files/1/0019/6404/8495/files/w-long-puffer.jpg?v=1578506290",
+          "title": "waverly long puffer",
+          "info": "some manufacturer as sandro & maje",
+          "price": 65,
+          "rating": 4.8
+        },
+        {
+          "image": "https://assets.italic.com/cdn-cgi/image/w=390,q=60,f=auto/https://cdn.shopify.com/s/files/1/0019/6404/8495/files/w-long-puffer.jpg?v=1578506290",
+          "title": "waverly long puffer",
+          "info": "some manufacturer as sandro & maje",
+          "price": 65,
+          "rating": 4.8
+        },
+        {
+          "image": "https://assets.italic.com/cdn-cgi/image/w=390,q=60,f=auto/https://cdn.shopify.com/s/files/1/0019/6404/8495/files/w-long-puffer.jpg?v=1578506290",
+          "title": "waverly long puffer",
+          "info": "some manufacturer as sandro & maje",
+          "price": 65,
+          "rating": 4.8
+        },
+        {
+          "image": "https://assets.italic.com/cdn-cgi/image/w=390,q=60,f=auto/https://cdn.shopify.com/s/files/1/0019/6404/8495/files/w-long-puffer.jpg?v=1578506290",
+          "title": "waverly long puffer",
+          "info": "some manufacturer as sandro & maje",
+          "price": 65,
+          "rating": 4.8
+        }
+      ],
+      "pants": [
+        {
+          "image": "https://assets.italic.com/cdn-cgi/image/w=390,q=60,f=auto/https://assets.italic.com/m/5721608b5a185b87/Web_Size_Product_Crop-Weekend-Cropped-Hoodie-03.jpg",
+          "title": "weekend joggerr",
+          "info": "some manufacturer as sandro & maje",
+          "price": 65,
+          "rating": 4.8
+        },
+        {
+          "image": "https://assets.italic.com/cdn-cgi/image/w=390,q=60,f=auto/https://assets.italic.com/m/5721608b5a185b87/Web_Size_Product_Crop-Weekend-Cropped-Hoodie-03.jpg",
+          "title": "weekend joggerr",
+          "info": "some manufacturer as sandro & maje",
+          "price": 65,
+          "rating": 4.8
+        },
+        {
+          "image": "https://assets.italic.com/cdn-cgi/image/w=390,q=60,f=auto/https://assets.italic.com/m/5721608b5a185b87/Web_Size_Product_Crop-Weekend-Cropped-Hoodie-03.jpg",
+          "title": "weekend joggerr",
+          "info": "some manufacturer as sandro & maje",
+          "price": 65,
+          "rating": 4.8
+        },
+        {
+          "image": "https://assets.italic.com/cdn-cgi/image/w=390,q=60,f=auto/https://assets.italic.com/m/5721608b5a185b87/Web_Size_Product_Crop-Weekend-Cropped-Hoodie-03.jpg",
+          "title": "weekend joggerr",
+          "info": "some manufacturer as sandro & maje",
+          "price": 65,
+          "rating": 4.8
+        },
+        {
+          "image": "https://assets.italic.com/cdn-cgi/image/w=390,q=60,f=auto/https://assets.italic.com/m/5721608b5a185b87/Web_Size_Product_Crop-Weekend-Cropped-Hoodie-03.jpg",
+          "title": "weekend joggerr",
+          "info": "some manufacturer as sandro & maje",
+          "price": 65,
+          "rating": 4.8
+        }
+      ],
+      "active-wear": [
+        {
+          "image": "https://assets.italic.com/cdn-cgi/image/w=97.5,q=60,fit=contain,format=auto/https://cdn.shopify.com/s/files/1/0019/6404/8495/products/Aura_RacerbackBra_BerryMauve_Figure_Front1.jpg?v=1598483552",
+          "title": "aura racerback",
+          "info": "some manufacturer as sandro & maje",
+          "price": 65,
+          "rating": 4.8
+        },
+        {
+          "image": "https://assets.italic.com/cdn-cgi/image/w=97.5,q=60,fit=contain,format=auto/https://cdn.shopify.com/s/files/1/0019/6404/8495/products/Aura_RacerbackBra_BerryMauve_Figure_Front1.jpg?v=1598483552",
+          "title": "aura racerback",
+          "info": "some manufacturer as sandro & maje",
+          "price": 65,
+          "rating": 4.8
+        }
+      ]
+    },
+    "men": {
+      "jackets": [
+        {
+          "image": "https://assets.italic.com/cdn-cgi/image/w=390,q=60,fit=contain,format=auto/https://cdn.shopify.com/s/files/1/0019/6404/8495/products/Web_Size_Product_Crop-MarcoLeatherBaseballJacket01.jpg?v=1605835059",
+          "title": "marco leather",
+          "info": "some manufacturer as sandro & maje",
+          "price": 65,
+          "rating": 4.8
+        },
+        {
+          "image": "https://assets.italic.com/cdn-cgi/image/w=390,q=60,fit=contain,format=auto/https://cdn.shopify.com/s/files/1/0019/6404/8495/products/Web_Size_Product_Crop-MarcoLeatherBaseballJacket01.jpg?v=1605835059",
+          "title": "marco leather",
+          "info": "some manufacturer as sandro & maje",
+          "price": 65,
+          "rating": 4.8
+        },
+        {
+          "image": "https://assets.italic.com/cdn-cgi/image/w=390,q=60,fit=contain,format=auto/https://cdn.shopify.com/s/files/1/0019/6404/8495/products/Web_Size_Product_Crop-MarcoLeatherBaseballJacket01.jpg?v=1605835059",
+          "title": "marco leather",
+          "info": "some manufacturer as sandro & maje",
+          "price": 65,
+          "rating": 4.8
+        },
+        {
+          "image": "https://assets.italic.com/cdn-cgi/image/w=390,q=60,fit=contain,format=auto/https://cdn.shopify.com/s/files/1/0019/6404/8495/products/Web_Size_Product_Crop-MarcoLeatherBaseballJacket01.jpg?v=1605835059",
+          "title": "marco leather",
+          "info": "some manufacturer as sandro & maje",
+          "price": 65,
+          "rating": 4.8
+        }
+      ],
+      "coats": [
+        {
+          "image": "https://assets.italic.com/cdn-cgi/image/w=390,q=60,fit=contain,format=auto/https://cdn.shopify.com/s/files/1/0019/6404/8495/products/Mercer_Parka_Black_Figure_01.jpg?v=1582841666",
+          "title": "marcer parka",
+          "info": "some manufacturer as sandro & maje",
+          "price": 65,
+          "rating": 4.8
+        },
+        {
+          "image": "https://assets.italic.com/cdn-cgi/image/w=390,q=60,fit=contain,format=auto/https://cdn.shopify.com/s/files/1/0019/6404/8495/products/Mercer_Parka_Black_Figure_01.jpg?v=1582841666",
+          "title": "marcer parka",
+          "info": "some manufacturer as sandro & maje",
+          "price": 65,
+          "rating": 4.8
+        },
+        {
+          "image": "https://assets.italic.com/cdn-cgi/image/w=390,q=60,fit=contain,format=auto/https://cdn.shopify.com/s/files/1/0019/6404/8495/products/Mercer_Parka_Black_Figure_01.jpg?v=1582841666",
+          "title": "marcer parka",
+          "info": "some manufacturer as sandro & maje",
+          "price": 65,
+          "rating": 4.8
+        }
+      ],
+      "sweaters": [
+        {
+          "image": "https://assets.italic.com/cdn-cgi/image/w=390,q=60,fit=contain,format=auto/https://cdn.shopify.com/s/files/1/0019/6404/8495/products/ITALIC20921.jpg?v=1579223558",
+          "title": "cashmere zip-up hoodie",
+          "info": "some manufacturer as sandro & maje",
+          "price": 65,
+          "rating": 4.8
+        },
+        {
+          "image": "https://assets.italic.com/cdn-cgi/image/w=390,q=60,fit=contain,format=auto/https://cdn.shopify.com/s/files/1/0019/6404/8495/products/ITALIC20921.jpg?v=1579223558",
+          "title": "cashmere zip-up hoodie",
+          "info": "some manufacturer as sandro & maje",
+          "price": 65,
+          "rating": 4.8
+        }
+      ],
+      "tees": [
+        {
+          "image": "https://assets.italic.com/cdn-cgi/image/w=390,q=60,fit=contain,format=auto/https://cdn.shopify.com/s/files/1/0019/6404/8495/products/071_VintageRecycled_WashedTeeSS_White_Figure_Men_FRONT1.jpg?v=1589258476",
+          "title": "recycled jersie",
+          "info": "some manufacturer as sandro & maje",
+          "price": 65,
+          "rating": 4.8
+        }
+      ]
+
+    }
+  }
+}
